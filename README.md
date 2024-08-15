@@ -1,5 +1,6 @@
 ## Hi there 👋
 [![wakatime](https://wakatime.com/badge/user/de8415d7-343f-46b7-862a-a47b52b9d05d.svg)](https://wakatime.com/@de8415d7-343f-46b7-862a-a47b52b9d05d)
+\n
 [![KAGA11's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaga11)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
